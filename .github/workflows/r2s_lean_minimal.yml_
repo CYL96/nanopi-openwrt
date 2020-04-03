@@ -92,6 +92,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-unblockmusic=y
           CONFIG_UnblockNeteaseMusic_Go=y
           CONFIG_UnblockNeteaseMusic_NodeJS=y
+          CONFIG_PACKAGE_kmod-rtl8xxxu=y
           # CONFIG_PACKAGE_iptables-mod-conntrack-extra is not set
           # CONFIG_PACKAGE_iptables-mod-ipopt is not set
           # CONFIG_PACKAGE_kmod-crypto-authenc is not set
